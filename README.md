@@ -63,4 +63,4 @@ Interactive visualizations of business metrics and trends.
 
 ---
 
-*Last updated: [Today's Date]*
+
