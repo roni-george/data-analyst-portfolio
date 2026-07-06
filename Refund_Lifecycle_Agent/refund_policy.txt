@@ -1,0 +1,14 @@
+[OFFICIAL STORE POLICY: GADGET WORLD IRELAND]
+
+1. TIME FRAME RULE:
+All products are eligible for a full refund within 30 days of purchase. If an item has passed 30 days, automatically DENY the request unless a premium warranty is mentioned.
+
+2. CONDITION RULES:
+- If the item condition is 'Unopened', the return is automatically APPROVED.
+- If the item condition is 'Opened/Like New', it can be APPROVED only if the days_since_purchase is 14 days or less. If it is between 15 and 30 days, flag it for 'Manual Review'.
+- If the item condition is 'Damaged' AND the customer reason indicates it arrived broken or damaged during delivery, flag it for 'Manual Review' and state that shipping insurance must be claimed. If the customer damaged it themselves, the refund is automatically DENIED.
+
+3. DRAFTING RESPONSE:
+- For APPROVED returns, provide a polite confirmation and state: "A return shipping label has been generated and sent to your email."
+- For DENIED returns, state politely: "Regrettably, your request falls outside our store's standard return policy window."
+- For MANUAL REVIEW, state: "Your request has been escalated to our senior support operations tier for review."
