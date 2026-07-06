@@ -16,3 +16,5 @@ To guarantee strict compliance with company guidelines, the underlying Gemini 2.
 * **Web Gateway:** FastAPI & Uvicorn (configured with an asynchronous application lifespan loop for continuous local 1-minute automation sweeps).
 * **Data Persistence:** Relational SQLite schema for transaction isolation and state management.
 * **Model Model:** Gemini 2.5 Flash.
+
+Demo Instructions: Run uv pip install -r requirements.txt followed by uv run --env-file .env main.py in the local directory with terminal environment credentials set
